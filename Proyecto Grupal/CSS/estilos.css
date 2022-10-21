@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(73, 104, 73);
+    color: cornflowerblue;
+}
+.head {
+    background-color: rgb(28, 131, 179);
+
+}
+.h1 {
+    background: rgb(150, 155, 226);
+    position: none;
+    margin: 20px;
+    padding: 30px;
+}
+div > h2{
+    background: rgb(150, 155, 226);
+    position: center;
+    margin: 20px;
+    padding: 30px;
+}
+/*.h2 {
+    background: rgb(150, 155, 226);
+    position: none;
+    margin: 20px;
+    padding: 30px;
+}
+.html {
+    background: rgb(60, 38, 160);
+}
