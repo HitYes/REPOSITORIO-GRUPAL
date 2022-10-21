@@ -3,11 +3,11 @@
     color: cornflowerblue;
 }
 .head {
-    background-color: rgb(28, 131, 179);
+    background-color: rgb(53, 131, 179);
 
 }
 .h1 {
-    background: rgb(150, 155, 226);
+    background: rgb(145, 155, 226);
     position: none;
     margin: 20px;
     padding: 30px;
@@ -23,6 +23,13 @@ div > h2{
     position: none;
     margin: 20px;
     padding: 30px;
+}
+div > h3{
+background: rgb(54, 23, 145);
+    position: left;
+    margin: 20px;
+    padding: 30px;
+
 }
 .html {
     background: rgb(60, 38, 160);
