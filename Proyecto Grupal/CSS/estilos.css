@@ -18,7 +18,7 @@ div > h2{
     margin: 20px;
     padding: 30px;
 }
-/*.h2 {
+.h2 {
     background: rgb(150, 155, 226);
     position: none;
     margin: 20px;
@@ -31,7 +31,7 @@ background: rgb(54, 23, 145);
     padding: 30px;
 
 }
-/*.h3 {
+.h3 {
     background: rgb(134, 22, 26);
     position: center;
     margin: 20px;
@@ -44,7 +44,7 @@ background: rgb(14, 23, 145);
     padding: 30px;
 
 }
-/*.h4 {
+.h4 {
     background: rgb(154, 122, 226);
     position: center;
     margin: 20px;
